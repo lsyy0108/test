@@ -6,4 +6,7 @@
 <hr>
 哈哈哈<br>
 <hr>
-[google](https://www.google.com/)
+
+[google](http://www.google.com)
+
+[yahoo](http://tw.yahoo.com)
