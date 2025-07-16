@@ -12,3 +12,5 @@
 [yahoo](http://tw.yahoo.com)
 
 [嘻嘻](www.docx)
+
+[school技術文件](doc/index.html)
